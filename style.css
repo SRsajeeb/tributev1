@@ -1,0 +1,22 @@
+body {
+  text-align:center;
+  background-color:#add8e6;
+}
+h1 {
+  font-family:Fantasy;
+    font-size:40px;
+  font-weight:bold;
+}
+img{
+  max-width:100%;
+  height:auto;
+  margin:auto;
+  display:block;
+  
+}
+#img-caption{
+  font-size:15px;
+}
+a{
+  font-size:20px;
+}
